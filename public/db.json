@@ -1,0 +1,59 @@
+{
+    "Laptop Outlet": [
+      {
+        "Company": "HP",
+        "Operating System": "Windows 11",
+        "RAM Size": "8GB",
+        "Price": 700,
+        "Manufacturer_details": {
+          "Series": "hp 17",
+          "Year": 2022
+        },
+        "Is available": true
+      },
+      {
+        "Company": "Dell",
+        "Operating System": "Windows 11 pro",
+        "RAM Size": "12GB",
+        "Price": 1200,
+        "Manufacturer_details": {
+          "Series": "XPS 15",
+          "Year": 2023
+        },
+        "Is available": true
+      },
+      {
+        "Company": "Apple",
+        "Operating System": "Mac os",
+        "RAM Size": "16GB",
+        "Price": 1200,
+        "Manufacturer_details": {
+          "Series": "MacBook Pro",
+          "Year": 2017
+        },
+        "Is available": true
+      },
+      {
+        "Company": "Lenovo",
+        "Operating System": "Windows 9",
+        "RAM Size": "8GB",
+        "Price": 399,
+        "Manufacturer_details": {
+          "Series": "ThinkPad",
+          "Year": 2018
+        },
+        "Is available": true
+      },
+      {
+        "Company": "Microsoft",
+        "Operating System": "Windows 10",
+        "RAM Size": "8GB",
+        "Price": 1000,
+        "Manufacturer_details": {
+          "Series": "Surface Laptop",
+          "Year": 2020
+        },
+        "Is available": true
+      }
+    ]
+  }
